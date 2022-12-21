@@ -8,11 +8,7 @@ func main(){
 }
 
 
-package main
-
-import ("fmt")
-
-func main()  {
+func person()  {
 	var (
 	name string = "Benson"
 	age int = 100
